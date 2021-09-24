@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Austin.
+### Hi 👋 I'm Austin.
 
-- 🔭 I’m currently working on fullstack web applications, IoT engineering, and data infrastructure.
+- 💻 I'm currently working on fullstack web applications, IoT engineering, and data infrastructure.
+- 🧩 I find developing software components using new technologies both exciting and challenging.
+- 🔑 But I believe the key to a good system being strategy, research, architecture, and determination.
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-
-## Skills
+## Skills (many not listed for lacking cool badges)
 
 ### Languages
 <table>
