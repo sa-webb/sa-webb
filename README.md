@@ -1,16 +1,19 @@
 ### Hi there 👋 I'm Austin.
 
-- 🔭 I’m currently working on fullstack web applications.
-- 🌱 I’m currently learning interview jargon and questions.
+- 🔭 I’m currently working on fullstack web applications, IoT engineering, and data infrastructure.
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 ## Skills
+<table>
+  <tr>
 <img alt="React" align="left" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="Redux" align="left" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="Material-UI" align="left" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
 <img alt="JavaScript" align="left" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="TypeScript" align="left" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  </tr>
+</table>
 <br />
 <br />
 <img alt="Postgresql" align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
