@@ -2,7 +2,8 @@
 
 - 💻 I'm currently working on fullstack web applications, IoT engineering, and data infrastructure.
 - 🧩 I find developing software components using new technologies both exciting and challenging.
-- 🔑 But I believe the key to a good system being strategy, research, architecture, and determination.
+- 🔑 I believe the key to building a good system is strategy, research, architecture, and determination.
+- <3 React, TypeScript, Next.js, GraphQL, Zustand, Redis, BullMQ, Node.js, Stripe, Google-API, Postgresql, Apache Kafka
 
 ## Skills (many not listed for lacking cool badges)
 
