@@ -1,11 +1,8 @@
 ### Hi 👋 I'm Austin.
 
-- 💻 I'm currently working on fullstack web applications, IoT engineering, and data infrastructure.
-- 🧩 I find developing software components using new technologies both exciting and challenging.
-- 🔑 I believe the key to building a good system is strategy, research, architecture, and determination.
-- <3 React, TypeScript, Next.js, GraphQL, Zustand, Redis, BullMQ, Node.js, Stripe, Google-API, Postgresql, Apache Kafka
+- 💻 I'm currently working as an Operations Engineer supporting an IoT Testbed.
 
-## Skills (many not listed for lacking cool badges)
+## Below are some of my favorite tools.
 
 ### Languages
 <table>
