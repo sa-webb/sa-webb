@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Austin.
 
-- 💻 I'm currently working as an Operations Engineer supporting an IoT Testbed.
+- 💻 I'm currently working as an Operations Engineer in Intelligent Transportation Systems supporting an IoT Testbed.
 
 ## Below are some of my favorite tools.
 
