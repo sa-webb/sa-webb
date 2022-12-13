@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Austin.
 
-- 💻 I'm currently working as a Data Engineer in Health Care Systems supporting.
+- 💻 I'm currently working as a Data Engineer in Health Care Systems.
 
 ## Below are some of my favorite tools.
 
