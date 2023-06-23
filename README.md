@@ -9,7 +9,7 @@
 <div align="left">
 	<ul style="list-style: none;">
         <li><img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP" />Defacto REST API protocol for typical client-server calls</li>
-        <li><<img height="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket" />Websockets for real-time communication</li>
+        <li><img height="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket" />Websockets for real-time communication</li>
         <li><<img height="50" src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png" alt="gRPC" title="gRPC" />gRPC for microservices </li>
         <li><img height="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL" />GraphQL for large scale applications</li>
         <li><img height="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" title="kafka" />Apache Kafka for data infrastructure and event driven services</li>
@@ -61,7 +61,7 @@
 
 ### Database
 
-<div align="center">
+<div align="left">
     <ul style="list-style: none;">
         <li><img height="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" title="kafka" />Kafka</li>
         <li><img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />PostgreSQL</li>
