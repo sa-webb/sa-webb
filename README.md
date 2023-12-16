@@ -1,6 +1,6 @@
-### Hi 👋 I'm Austin.
+### Howdy 👋
 
-- 💻 I'm currently working on an analytics platform as a Data Engineer.
+Welcome to my page. 
 
 ## Below are some of my tools of the trade.
 
